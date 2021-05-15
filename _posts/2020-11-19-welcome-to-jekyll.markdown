@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Post on regular work
 title:  "Ashraf's Profile of Python"
 
 ---
