@@ -1,6 +1,6 @@
 ---
-layout: Post on regular work
-title:  "Ashraf's Profile of Python"
+Layout: Post on regular work
+Title:  "Ashraf's Profile of Python"
 
 ---
 # About Me
