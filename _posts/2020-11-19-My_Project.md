@@ -1,8 +1,8 @@
 ---
 Layout: Posts on regular work
 Title:  "Ashraf's Profile of Python"
-date: 
-catagories: 
+date:   2021-05-15
+catagories: jekyll update
 
 
 ---
