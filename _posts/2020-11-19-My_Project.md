@@ -1,6 +1,9 @@
 ---
 Layout: Posts on regular work
 Title:  "Ashraf's Profile of Python"
+date: 
+catagories: 
+
 
 ---
 # About Me
