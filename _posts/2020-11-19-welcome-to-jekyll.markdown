@@ -1,5 +1,5 @@
 ---
-Layout: Post on regular work
+Layout: Posts on regular work
 Title:  "Ashraf's Profile of Python"
 
 ---
@@ -9,7 +9,7 @@ Ashraf in short.
 Studying in TUHH and main study focus is Machine Learning, Data Analysis and 3D Computer Vision.
 some work here are the representation of my interest.
 
-## Project Work on the Way
+## Project Works on the Way
 
 
 
